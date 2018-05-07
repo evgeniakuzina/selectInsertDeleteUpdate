@@ -1,2 +1,2 @@
 # selectInsertDeleteUpdate
-Netology "Querier SELECT, INSERT, UPDATE and DELETE" TODO-list
+Netology "Queries SELECT, INSERT, UPDATE and DELETE" TODO-list
